@@ -1,0 +1,14 @@
+h1 {
+  font-size: 50px;
+  text-align: center;
+}
+
+body.p {
+  font-family: cambria, serif;
+}
+
+body {
+  background: url(https://cdn.pixabay.com/photo/2016/08/05/09/31/banner-1571861_1280.jpg);
+  background-size: cover;
+  text-align: center;
+}
