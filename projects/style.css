@@ -3,6 +3,9 @@
 body {
     color: #191919;
     font-family: 'Work Sans', sans-serif;
+    /* background: url("../images/bkg_watercolor_blue.jpg"); */
+    background: url("https://cdn.pixabay.com/photo/2016/04/12/22/35/watercolour-1325656_1280.jpg");
+    background-size: cover;
 }
 
 img {
